@@ -1,4 +1,4 @@
-- 👋  Hi, I’m @tanishqdaniel
+- 👋   Hi, I’m @tanishqdaniel
 - 👀  I’m interested in the Tech, Finance, and Entertainment Industries 
 - 🌱 I’m currently getting my MSc in Data Science and Analytics
 - 💞️ I’m looking to collaborate on Python, R, SaS, and SQL Projects 
